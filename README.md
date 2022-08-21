@@ -1,7 +1,9 @@
 # ✨ Zing
 
 🐌 Zing is C-style String formatter for JavaScript that empowers Strings with positional arguments. 🚀
+
 <br>
+
 Install it by running
 
 ```shell
