@@ -6,7 +6,7 @@
  */
 function zing(value) {
   if (arguments.length <= 1) {
-    return ''
+    return value || ''
   }
 
   const args = Array.prototype.slice.call(arguments, 1)
