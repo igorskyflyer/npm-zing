@@ -13,7 +13,7 @@ npm i "@igor.dvlpr/zing"
 ## API
 
 ```ts
-zing(value: string, ...any): string
+zing(value: string, ...args: any[]): string
 ```
 
 Formats the provided string in a C-style format, i.e. adds the ability to use positional arguments, like seen with `printf` in C.
