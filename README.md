@@ -1,4 +1,4 @@
-# Zing
+# ✨ Zing
 
 🐌 Zing is C-style String formatter for JavaScript that empowers Strings with positional arguments. 🚀
 <br>
