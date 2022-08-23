@@ -1,7 +1,7 @@
 {
 	"name": "@igor.dvlpr/zing",
-	"version": "1.0.1",
-	"description": "🐌 Zing is C-style String formatter for JavaScript that empowers Strings with positional arguments. 🚀",
+	"version": "1.0.2",
+	"description": "🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀",
 	"engines": {
 		"node": ">=12.17"
 	},
