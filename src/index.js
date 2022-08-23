@@ -1,6 +1,6 @@
 /**
- * Formats the provided string in a C-style format, i.e. adds the ability to use positional arguments, like seen with `printf` in C.
- * @see {@link https://docs.microsoft.com/en-us/cpp/c-runtime-library/printf-p-positional-parameters?view=msvc-170}
+ * Formats the provided string in a C# style format, i.e. adds the ability to use positional arguments - composite formatting, like seen with `String.Format` and related methods in C#.
+ * @see {@link https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting}
  * @param {string} value
  * @returns {string}
  */
