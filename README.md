@@ -24,7 +24,7 @@
 <br>
 
 💡 This module has been selected to be part of the [Project NextWave](https://github.com/igorskyflyer/project-nextwave), thus, it is `ESM-only`.  
-For legacy, CommonJS usage, install the previous major release.
+&nbsp;&nbsp;For legacy, CommonJS usage, install the previous major release.
 
 <br>
 
