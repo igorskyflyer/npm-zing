@@ -1,48 +1,47 @@
 {
-	"name": "@igor.dvlpr/zing",
-	"version": "2.0.0",
-	"description": "🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀",
-	"sideEffects": false,
-	"engines": {
-		"node": ">=16.0"
-	},
-	"types": "./dist/index.d.mts",
-	"main": "./dist/index.mjs",
-	"module": "./dist/index.mjs",
-	"files": [
-		"dist"
-	],
-	"scripts": {
-		"build": "tsc",
-		"test": "vitest --run",
-		"debug": "vitest",
-		"pub": "npm test && npm run build && npm publish --access public"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/igorskyflyer/npm-zing.git"
-	},
-	"keywords": [
-		"zing",
-		"string",
-		"formatter",
-		"print",
-		"c#",
-		"c-sharp",
-		"igor.dvlpr",
-		"igorskyflyer",
-		"utility"
-	],
-	"author": "Igor Dimitrijević <igor.dvlpr@gmail.com> (https://github.com/igorskyflyer)",
-	"license": "MIT",
-	"funding": "https://ko-fi.com/igorskyflyer",
-	"bugs": {
-		"url": "https://github.com/igorskyflyer/npm-zing/issues"
-	},
-	"homepage": "https://github.com/igorskyflyer/npm-zing#readme",
-	"devDependencies": {
-		"@types/node": "^16.0.0",
-		"typescript": "^5.1.6",
-		"vitest": "^0.34.1"
-	}
+  "name": "@igor.dvlpr/zing",
+  "version": "2.0.1",
+  "description": "🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting. 🚀",
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20.0"
+  },
+  "types": "./dist/index.d.mts",
+  "main": "./dist/index.mjs",
+  "module": "./dist/index.mjs",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest --run",
+    "debug": "vitest",
+    "pub": "npm test && npm run build && npm publish --access public"
+  },
+  "keywords": [
+    "zing",
+    "string",
+    "formatter",
+    "print",
+    "c#",
+    "c-sharp",
+    "utility",
+    "igorskyflyer",
+    "igor.dvlpr"
+  ],
+  "license": "MIT",
+  "author": "Igor Dimitrijević <igor.dvlpr@gmail.com> (https://github.com/igorskyflyer)",
+  "funding": "https://ko-fi.com/igorskyflyer",
+  "homepage": "https://github.com/igorskyflyer/npm-zing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorskyflyer/npm-zing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igorskyflyer/npm-zing/issues"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3",
+    "@types/node": "^20.14.10",
+    "typescript": "^5.5.3",
+    "vitest": "^1.6.0"
+  }
 }
