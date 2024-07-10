@@ -1,3 +1,5 @@
+// Author: Igor Dimitrijević (@igorskyflyer)
+
 import { assert, describe, test } from 'vitest'
 import { zing } from '../src/index.mjs'
 
