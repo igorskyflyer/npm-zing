@@ -1,27 +1,34 @@
-# ✨ Zing
-
-🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments, more information [here](https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting). 🚀
+# Zing
 
 <br>
 
-<blockquote align="center">
-	<h4>💖 Support further development</h4>
-	<span>I work hard for every project, including this one and your sponsorship means a lot to me!
-	<br>
-	Consider buying me a coffee. ☕
-	<br>
-	<strong>Thank you for supporting my efforts! 🙏😊</strong></span>
-	<br>
-	<br>
-	<a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="108"></a>
-	<br>
-	<br>
-	<a href="https://github.com/igorskyflyer"><em>@igorskyflyer</em></a>
-</blockquote>
+<p align="center">
+	🐌 Zing is a C# style String formatter for JavaScript that empowers Strings with positional arguments - composite formatting, more information <a href="https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting">composite formatting <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>. 🚀
+</p>
 
 <br>
+<br>
 
-> 💡 This module has been selected to be part of the [Project NextWave](https://github.com/igorskyflyer/project-nextwave), thus, it is `ESM-only`. For legacy, CommonJS usage, install the previous major release.
+<div align="center">
+	<blockquote>
+		<br>
+		<h4>💖 Support further development</h4>
+		<span>I work hard for every project, including this one and your support means a lot to me!
+		<br>
+		Consider buying me a coffee. ☕
+		<br>
+		<strong>Thank you for supporting my efforts! 🙏😊</strong></span>
+		<br>
+		<br>
+		<a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="150"></a>
+		<br>
+		<br>
+		<a href="https://github.com/igorskyflyer"><em>@igorskyflyer</em></a>
+		<br>
+		<br>
+		<br>
+	</blockquote>
+</div>
 
 <br>
 
@@ -33,7 +40,7 @@ Install it by executing:
 npm i "@igor.dvlpr/zing"
 ```
 
----
+<br>
 
 ## 🤹🏼 API
 
@@ -53,6 +60,12 @@ The returned value is always a `string`.
 
 ---
 
+## 📝 Changelog
+
+> ✨ Changelog is available here: [CHANGELOG.md](https://github.com/igorskyflyer/npm-zing/blob/main/CHANGELOG.md).
+
+---
+
 ## 🪪 License
 
 Licensed under the MIT license which is available here, [MIT license](https://github.com/igorskyflyer/npm-zing/blob/main/LICENSE).
@@ -61,22 +74,35 @@ Licensed under the MIT license which is available here, [MIT license](https://gi
 
 ## 🧬 Related
 
-[@igor.dvlpr/keppo](https://www.npmjs.com/package/@igor.dvlpr/keppo)
+[@igor.dvlpr/recursive-readdir](https://www.npmjs.com/package/@igor.dvlpr/recursive-readdir)
 
-> _🎡 Parse, manage, compare and output SemVer-compatible version numbers. 🛡_
+> _📖 Provides recursive readdir() and readdirSync() functions. 📁_
 
-[@igor.dvlpr/extendable-string](https://www.npmjs.com/package/@igor.dvlpr/extendable-string)
+<br>
 
-> _🦀 ExtendableString allows you to create strings on steroids that have custom transformations applied to them, unlike common, plain strings. 🪀_
+[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)
 
-[@igor.dvlpr/normalized-string](https://www.npmjs.com/package/@igor.dvlpr/normalized-string)
+> _📚 An npm package for fetching Windows registry keys. 🗝_
 
-> _💊 NormalizedString provides you with a String type with consistent line-endings, guaranteed. 📮_
+<br>
 
-[@igor.dvlpr/comment-it](https://www.npmjs.com/package/@igor.dvlpr/comment-it)
+[@igor.dvlpr/jmap](https://www.npmjs.com/package/@igor.dvlpr/jmap)
 
-> _📜 Formats the provided string as a comment, either a single or a multi line comment for the given programming language. 40 languages are currently supported. 💻_
+> _🕶️ Reads a JSON file into a Map. 🌻_
 
-[@igor.dvlpr/duoscribi](https://www.npmjs.com/package/@igor.dvlpr/duoscribi)
+<br>
 
-> _✒ DúöScríbî allows you to convert letters with diacritics to regular letters. 🤓_
+[@igor.dvlpr/unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)
+
+> _🥽 Provides ways of parsing UNC paths and checking whether they are valid. 🎱_
+
+<br>
+
+[@igor.dvlpr/scrollend-polyfill](https://www.npmjs.com/package/@igor.dvlpr/scrollend-polyfill)
+
+> _🛴 A performant and light (< 1KB) JavaScript polyfill for the scrollend Event. ⛸️_
+
+<br>
+<br>
+
+Provided by **Igor Dimitrijević** ([*@igorskyflyer*](https://github.com/igorskyflyer/)).
