@@ -1,23 +1,25 @@
-## 📒 Changelog
+# 📒 Changelog
 
-### of [@igor.dvlpr/zing](https://github.com/igorskyflyer/npm-zing)
+### of [@igorskyflyer/zing](https://github.com/igorskyflyer/npm-zing)
 
 <br>
 
-## v2.0.1
+## v2.1.0 (*29-Aug-2025*)
 
-<p align="right"><em>11-Jul-2024</em></p>
+- **💻 dev**: upgrade Node to >= v22
+- **💻 dev**: upgrade dependencies
+
+<br>
+<br>
+
+## v2.0.1 (*11-Jul-2024*)
 
 - **💻 dev**: switch to TypeScript and Node `v20`
 
 <br>
 <br>
 
-## v2.0.0
-
-<p align="right"><em>04-Aug-2023</em></p>
-
-> 💡 This module has been selected to be part of the [Project NextWave](https://github.com/igorskyflyer/project-nextwave), thus, it is `ESM-only`. For legacy, CommonJS usage, install the previous major release.
+## v2.0.0 (*04-Aug-2023*)
 
 <br>
 
@@ -28,8 +30,6 @@
 <br>
 <br>
 
-## 1.0.0
-
-<p align="right"><em>21-Aug-2022</em></p>
+## 1.0.0 (*21-Aug-2022*)
 
 - **🚀 launch**: initial release 🎉
