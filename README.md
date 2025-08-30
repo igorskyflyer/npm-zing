@@ -41,8 +41,6 @@
 
 > ℹ️ **NOTE**
 >
-> *More information*
->
 > More information about [composite formatting](https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting).
 >
 
