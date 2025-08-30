@@ -28,14 +28,14 @@
 
 ## 🤖 Features
 
- -⚡ Quick formatting - Drop in `{0}`, `{1}` placeholders and swap them instantly
- -🛠 C#-style syntax - Familiar composite formatting for .NET devs in JS/TS
- -🎯 Positional arguments - Control exactly where each value lands
- -🛡 Safe fallback - Leaves unknown placeholders untouched
- -🧩 Lightweight utility - No dependencies, minimal footprint
- -🔄 Multi-replace - Handles all matching placeholders in one pass
- -📜 TypeScript-ready - Strong typing for cleaner code
- -🌍 Cross-platform - Works in browser and Node environments
+ - ⚡ Quick formatting - Drop in `{0}`, `{1}` placeholders and swap them instantly
+ - 🛠 C#-style syntax - Familiar composite formatting for .NET devs in JS/TS
+ - 🎯 Positional arguments - Control exactly where each value lands
+ - 🛡 Safe fallback - Leaves unknown placeholders untouched
+ - 🧩 Lightweight utility - No dependencies, minimal footprint
+ - 🔄 Multi-replace - Handles all matching placeholders in one pass
+ - 📜 TypeScript-ready - Strong typing for cleaner code
+ - 🌍 Cross-platform - Works in browser and Node environments
 
 <br>
 
