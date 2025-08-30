@@ -1,7 +1,7 @@
 // Author: Igor Dimitrijević (@igorskyflyer)
 
 import { assert, describe, test } from 'vitest'
-import { zing } from '../src/index.mjs'
+import { zing } from '../src/index.js'
 
 describe('🧪 zing tests 🧪', () => {
   test('#1 should ', () => {
